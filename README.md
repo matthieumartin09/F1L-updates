@@ -38,9 +38,11 @@ Découvrez les dashboards F1L en accès libre. Chaque modèle dispose d'un aper�
 
 **[Voir tous les dashboards et leurs aperçus](DASHBOARDS.md)**
 
+**F1 V2 corrigé exige R2F165 : mettez d’abord le firmware à jour, puis importez le dashboard.** RPM blanc, tour en cours, meilleur tour violet et rapport suggéré ; le bloc fixe « Pilote derrière » est retiré. Pages 2 et 3 conservées. Essais matériels à effectuer ; le problème des popups reste non résolu.
+
 Pour installer un dashboard sur un volant compatible, utilisez **ADD DASHBOARD** depuis la page Web du volant et choisissez le fichier `.f1l`. Ce fichier n'est pas un firmware ; ne l'utilisez ni en flash USB ni comme mise à jour OTA.
 
-*Les aperçus montrent les fonds graphiques du dashboard. Les valeurs dynamiques apparaissent pendant l'utilisation.*
+*La page 1 montre un rendu du fichier corrigé avec des valeurs de télémétrie simulées ; les pages 2 et 3 montrent les fonds originaux.*
 
 ## 🔒 Première installation — Accès réservé
 
@@ -62,3 +64,4 @@ Si vous avez reçu ce programme directement, suivez **uniquement les instruction
 ---
 
 *Projet communautaire non officiel, indépendant de MVH Studios.*
+

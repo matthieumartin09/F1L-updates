@@ -18,7 +18,13 @@ Les dashboards présentés ici sont **téléchargeables gratuitement**. Chaque m
 |:---:|:---:|:---:|
 | [![Fond graphique de la page Course](previews/F1_V2_page1.svg)](previews/F1_V2_page1.svg) | [![Fond graphique de la page Voiture](previews/F1_V2_page2.svg)](previews/F1_V2_page2.svg) | [![Fond graphique de la page Moteur](previews/F1_V2_page3.svg)](previews/F1_V2_page3.svg) |
 
-Ces aperçus sont extraits des **fonds graphiques réels du fichier** `F1_V2.f1l`. Les valeurs et couleurs liées à la télémétrie s'affichent dynamiquement sur le volant.
+La page 1 est rendue à partir des véritables ressources de `F1_V2.f1l`, avec des valeurs de télémétrie simulées. Les pages 2 et 3 conservent leurs fonds originaux.
+
+**Version corrigée — firmware R2F165 requis avant l’import.** Tour en cours avec millisecondes, meilleur tour violet sans chevauchement, rapport suggéré rouge masqué si invalide, RPM blanc en bas à droite. Le bloc « Pilote derrière » était une image fixe sans binding : il est retiré. Les autres données, cadres et pages 2 et 3 sont conservés.
+
+Tests PC réussis ; démarrage, télémétrie réelle et fluidité restent à valider sur le volant. L’absence des popups avec All reste un défaut connu : aucun correctif n’est revendiqué.
+
+[Installer le firmware R2F165](https://github.com/matthieumartin09/F1L-updates/releases/tag/R2F165), puis importer le dashboard ci-dessous.
 
 **[⬇️ Télécharger F1 V2](https://raw.githubusercontent.com/matthieumartin09/F1L-updates/main/F1_V2.f1l)**
 
@@ -31,3 +37,4 @@ Ces aperçus sont extraits des **fonds graphiques réels du fichier** `F1_V2.f1l
 **Ne pas confondre :** l'ajout d'un dashboard est différent d'une mise à jour du firmware. Ne flashez pas un `.f1l` par USB et ne l'utilisez pas avec la mise à jour OTA.
 
 [← Retour à l'accueil](README.md)
+
