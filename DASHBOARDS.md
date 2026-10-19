@@ -4,6 +4,8 @@
 
 Les dashboards présentés ici sont **téléchargeables gratuitement**. Chaque modèle possède un lien d'installation et un aperçu. Les prochains modèles seront ajoutés au même endroit.
 
+**Important — 8 dashboards personnalisés maximum peuvent être installés simultanément sur le volant.** Lorsque les 8 emplacements sont occupés, supprimez un dashboard personnalisé existant avant d'en ajouter un autre.
+
 ## Modèles disponibles
 
 | Aperçu | Modèle | Téléchargement |
