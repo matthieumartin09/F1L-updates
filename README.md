@@ -32,6 +32,8 @@ Gardez une alimentation stable pendant l'installation. La mention « Installatio
 
 Découvrez les dashboards F1L en accès libre. Chaque modèle dispose d'un aperçu, d'une description et d'un lien de téléchargement. Les prochains modèles seront ajoutés dans ce même catalogue.
 
+**Limite d'installation : 8 dashboards personnalisés maximum sur le volant.** Pour en installer un nouveau lorsque les 8 emplacements sont occupés, supprimez d'abord un dashboard personnalisé existant.
+
 | Aperçu | Dashboard et téléchargement |
 |:---:|---|
 | [![Aperçu F1 V2](previews/F1_V2_page1.svg)](DASHBOARDS.md#f1-v2) | **F1 V2** — 3 pages : Course, Voiture et Moteur.<br>**[Télécharger le dashboard (.f1l)](https://raw.githubusercontent.com/matthieumartin09/F1L-updates/main/F1_V2.f1l)**<br>[Voir les 3 pages](DASHBOARDS.md#f1-v2) |
