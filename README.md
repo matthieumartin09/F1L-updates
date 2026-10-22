@@ -36,7 +36,7 @@ Découvrez les dashboards F1L en accès libre. Chaque modèle dispose d'un aper�
 
 | Aperçu | Dashboard et téléchargement |
 |:---:|---|
-| [![Aperçu F1 V2](previews/F1_V2_page1.svg)](DASHBOARDS.md#f1-v2--4-pages) | **F1 V2 — 4 pages** : Course, Voiture, Moteur et Circuit.<br>**[Télécharger le dashboard (.f1l)](https://github.com/matthieumartin09/F1L-updates/releases/download/R2F172/F1_V2_CIRCUIT.f1l)**<br>[Découvrir les 4 pages](DASHBOARDS.md#f1-v2--4-pages) |
+| [![Aperçu F1 V2 — page Circuit](previews/F1_V2_page4.svg)](DASHBOARDS.md#f1-v2--4-pages) | **F1 V2 — 4 pages** : Course, Voiture, Moteur et Circuit.<br>**[Télécharger le dashboard (.f1l)](https://github.com/matthieumartin09/F1L-updates/releases/download/R2F172/F1_V2_CIRCUIT.f1l)**<br>[Découvrir les 4 pages](DASHBOARDS.md#f1-v2--4-pages) |
 
 **[Voir tous les dashboards et leurs aperçus](DASHBOARDS.md)**
 
@@ -44,7 +44,7 @@ Découvrez les dashboards F1L en accès libre. Chaque modèle dispose d'un aper�
 
 Pour installer un dashboard sur un volant compatible, utilisez **ADD DASHBOARD** depuis la page Web du volant et choisissez le fichier `.f1l`. Ce fichier n'est pas un firmware ; ne l'utilisez ni en flash USB ni comme mise à jour OTA.
 
-*Les trois aperçus disponibles correspondent aux pages Course, Voiture et Moteur ; l’aperçu graphique de la page Circuit n’est pas encore publié dans le catalogue.*
+*Les quatre aperçus illustrent les pages Course, Voiture, Moteur et Circuit ; celui du circuit est une illustration fixe d’après la simulation R2F169, et non une capture du volant en télémétrie réelle.*
 
 ## 🔒 Première installation — Accès réservé
 
