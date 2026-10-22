@@ -36,15 +36,15 @@ Découvrez les dashboards F1L en accès libre. Chaque modèle dispose d'un aper�
 
 | Aperçu | Dashboard et téléchargement |
 |:---:|---|
-| [![Aperçu F1 V2](previews/F1_V2_page1.svg)](DASHBOARDS.md#f1-v2) | **F1 V2** — 3 pages : Course, Voiture et Moteur.<br>**[Télécharger le dashboard (.f1l)](https://raw.githubusercontent.com/matthieumartin09/F1L-updates/main/F1_V2.f1l)**<br>[Voir les 3 pages](DASHBOARDS.md#f1-v2) |
+| [![Aperçu F1 V2](previews/F1_V2_page1.svg)](DASHBOARDS.md#f1-v2--4-pages) | **F1 V2 — 4 pages** : Course, Voiture, Moteur et Circuit.<br>**[Télécharger le dashboard (.f1l)](https://github.com/matthieumartin09/F1L-updates/releases/download/R2F172/F1_V2_CIRCUIT.f1l)**<br>[Découvrir les 4 pages](DASHBOARDS.md#f1-v2--4-pages) |
 
 **[Voir tous les dashboards et leurs aperçus](DASHBOARDS.md)**
 
-**F1 V2 corrigé exige R2F165 : mettez d’abord le firmware à jour, puis importez le dashboard.** RPM blanc, tour en cours, meilleur tour violet et rapport suggéré ; le bloc fixe « Pilote derrière » est retiré. Pages 2 et 3 conservées. Essais matériels à effectuer ; le problème des popups reste non résolu.
+**Pour profiter de la page Circuit, utilisez le firmware R2F172 ou une version ultérieure compatible**, puis importez `F1_V2_CIRCUIT.f1l` via **ADD DASHBOARD**. Le modèle comprend les trois pages Course / Voiture / Moteur et une quatrième page Circuit avec carte fixe et positions des voitures. Les essais PC ne remplacent pas une validation sur le volant ; aucun correctif des popups n’est revendiqué.
 
 Pour installer un dashboard sur un volant compatible, utilisez **ADD DASHBOARD** depuis la page Web du volant et choisissez le fichier `.f1l`. Ce fichier n'est pas un firmware ; ne l'utilisez ni en flash USB ni comme mise à jour OTA.
 
-*La page 1 montre un rendu du fichier corrigé avec des valeurs de télémétrie simulées ; les pages 2 et 3 montrent les fonds originaux.*
+*Les trois aperçus disponibles correspondent aux pages Course, Voiture et Moteur ; l’aperçu graphique de la page Circuit n’est pas encore publié dans le catalogue.*
 
 ## 🔒 Première installation — Accès réservé
 
