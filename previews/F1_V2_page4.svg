@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320" role="img" aria-label="Aperçu illustratif de la page 4 Circuit, Suzuka, positions, tracé, rapport, DRS et secteurs">
+<title>F1 V2 — Page 4 Circuit (illustration d'après la simulation R2F169)</title>
+<defs>
+<pattern id="carbon" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(40)"><rect width="6" height="6" fill="#070b0d"/><path d="M0 0V6 M3 0V6" stroke="#10191d" stroke-width=".8"/></pattern>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#310309"/><stop offset="1" stop-color="#0b0507"/></linearGradient>
+</defs>
+<rect width="480" height="320" fill="url(#carbon)"/>
+<path d="M0 246H480M108 0V245M384 0V245M0 246H480M160 246V320M320 246V320" stroke="#65717b" stroke-width="1.7"/>
+<path d="M359 0H480V65L413 0Z" fill="url(#red)" opacity=".68"/>
+<path d="M0 275V320H55L0 267Z" fill="url(#red)" opacity=".77"/><path d="M0 284L35 320" stroke="#a0101b" stroke-width="6" opacity=".7"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#f1f4f5">
+<text x="21" y="20" font-size="12" font-weight="bold">POSITIONS</text>
+<rect x="6" y="35" width="95" height="34" fill="#182429" stroke="#cad7dd" stroke-width="1.5"/>
+<path d="M35 37V66" stroke="#25b49e" stroke-width="4"/>
+<text x="13" y="57" font-size="16" font-weight="bold">1</text><text x="44" y="57" font-size="18" font-weight="bold">DRI</text>
+<path d="M35 81V102" stroke="#cf2852" stroke-width="4"/><text x="14" y="96" font-size="15" font-weight="bold">2</text><text x="44" y="96" font-size="17" font-weight="bold">DRI</text>
+<path d="M35 120V141" stroke="#357cca" stroke-width="4"/><text x="14" y="134" font-size="15" font-weight="bold">3</text><text x="44" y="134" font-size="17" font-weight="bold">DRI</text>
+<path d="M35 159V180" stroke="#57a8db" stroke-width="4"/><text x="14" y="174" font-size="15" font-weight="bold">4</text><text x="44" y="174" font-size="17" font-weight="bold">DRI</text>
+<path d="M35 197V219" stroke="#18a47b" stroke-width="4"/><text x="14" y="213" font-size="15" font-weight="bold">5</text><text x="44" y="213" font-size="17" font-weight="bold">DRI</text>
+<text x="209" y="20" font-size="12" font-weight="bold" letter-spacing=".8">SUZUKA / 25</text>
+<text x="402" y="20" font-size="12" font-weight="bold">RAPPORT</text>
+<text x="430" y="122" text-anchor="middle" font-size="87" font-weight="bold">2</text>
+<path d="M388 152H480" stroke="#62717b" stroke-width="1.2"/>
+<text x="400" y="176" font-size="12" font-weight="bold">AERO / DRS</text>
+<text x="429" y="197" text-anchor="middle" font-size="12" font-weight="bold" fill="#46b9aa">OUVERT</text>
+<text x="430" y="218" text-anchor="middle" font-size="12" font-weight="bold">TOUR</text>
+<text x="430" y="236" text-anchor="middle" font-size="15" font-weight="bold">4/52</text>
+</g>
+<!-- Track outlines reconstructed from the supplied R2F169 simulation image. -->
+<path d="M129 215 C131 225 144 231 151 220 C156 211 147 203 151 192 C157 177 161 174 175 169 C181 165 187 159 193 154 C201 146 206 148 213 144 C221 138 222 135 232 139 C247 139 250 154 264 160 C276 165 283 152 292 141 C307 132 302 124 300 117 C294 108 309 106 318 103 C321 96 318 92 327 85 C341 79 336 71 342 59 C345 44 358 47 362 57 C368 73 350 77 345 92 C343 104 335 107 330 120 C322 144 314 161 302 163 C284 166 278 162 264 156 C248 146 240 143 229 148 C223 151 217 147 212 139 C205 132 204 144 195 147 C179 149 171 152 164 164 C148 177 148 190 149 200 C147 215 132 219 129 215" fill="none" stroke="#151d1d" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M129 215 C131 225 144 231 151 220 C156 211 147 203 151 192 C157 177 161 174 175 169 C181 165 187 159 193 154 C201 146 206 148 213 144 C221 138 222 135 232 139 C247 139 250 154 264 160 C276 165 283 152 292 141 C307 132 302 124 300 117 C294 108 309 106 318 103 C321 96 318 92 327 85 C341 79 336 71 342 59 C345 44 358 47 362 57 C368 73 350 77 345 92 C343 104 335 107 330 120 C322 144 314 161 302 163 C284 166 278 162 264 156 C248 146 240 143 229 148 C223 151 217 147 212 139 C205 132 204 144 195 147 C179 149 171 152 164 164 C148 177 148 190 149 200 C147 215 132 219 129 215" fill="none" stroke="#f0f7f8" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<g stroke="#061018" stroke-width=".7">
+<circle cx="129" cy="215" r="4.7" fill="#1aafd6"/><circle cx="150" cy="221" r="4.5" fill="#21a890"/><circle cx="151" cy="189" r="4.7" fill="#649cea"/><circle cx="180" cy="169" r="4.5" fill="#ffffff"/>
+<circle cx="192" cy="171" r="4.7" fill="#3b87ca"/><circle cx="211" cy="151" r="4.7" fill="#eca447"/><circle cx="221" cy="171" r="4.8" fill="#e52647"/><circle cx="221" cy="153" r="6" fill="none" stroke="#0be7ab" stroke-width="2"/>
+<circle cx="244" cy="147" r="4.7" fill="#77e668"/><circle cx="274" cy="164" r="4.8" fill="#19ccab"/><circle cx="307" cy="161" r="4.7" fill="#f62c43"/><circle cx="326" cy="132" r="4.7" fill="#1c81d1"/><circle cx="343" cy="102" r="4.7" fill="#51b7e0"/><circle cx="361" cy="73" r="4.7" fill="#14bca8"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="bold" fill="#fff">
+<text x="204" y="148">S3</text><text x="225" y="185">S2</text><text x="339" y="50">S1</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-weight="bold">
+<text x="245" y="239" font-size="8" fill="#5ac7f3">DRS : OBSERVATIONS</text>
+<text x="80" y="262" font-size="13" fill="#fff">SECTEUR 1</text>
+<text x="80" y="285" font-size="12" fill="#d3dce0">INVALIDE</text>
+<text x="240" y="262" font-size="13" fill="#fff">SECTEUR 2</text>
+<text x="240" y="285" font-size="12" fill="#d3dce0">EN COURS</text>
+<text x="400" y="262" font-size="13" fill="#fff">SECTEUR 3</text>
+<text x="400" y="285" font-size="12" fill="#d3dce0">À VENIR</text>
+</g>
+</svg>
