@@ -10,17 +10,19 @@ Les dashboards présentés ici sont **téléchargeables gratuitement**. Chaque m
 
 | Aperçu | Modèle | Téléchargement |
 |:---:|---|---|
-| [![Aperçu F1 V2](previews/F1_V2_page1.svg)](#f1-v2--4-pages) | **F1 V2 — 4 pages**<br>Course · Voiture · Moteur · Circuit | **[⬇️ Télécharger (.f1l)](https://github.com/matthieumartin09/F1L-updates/releases/download/R2F172/F1_V2_CIRCUIT.f1l)**<br>[Voir les 4 pages](#f1-v2--4-pages) |
+| [![Aperçu F1 V2 — Circuit](previews/F1_V2_page4.svg)](#f1-v2--4-pages) | **F1 V2 — 4 pages**<br>Course · Voiture · Moteur · Circuit | **[⬇️ Télécharger (.f1l)](https://github.com/matthieumartin09/F1L-updates/releases/download/R2F172/F1_V2_CIRCUIT.f1l)**<br>[Voir les 4 pages](#f1-v2--4-pages) |
 
 ## F1 V2 — 4 pages
 
 **Quatre pages — affichage F1L 480 × 320 pixels.**
 
-| Page 1 : Course | Page 2 : Voiture | Page 3 : Moteur |
-|:---:|:---:|:---:|
-| [![Aperçu Course](previews/F1_V2_page1.svg)](previews/F1_V2_page1.svg) | [![Aperçu Voiture](previews/F1_V2_page2.svg)](previews/F1_V2_page2.svg) | [![Aperçu Moteur](previews/F1_V2_page3.svg)](previews/F1_V2_page3.svg) |
+| Page 1 : Course | Page 2 : Voiture |
+|:---:|:---:|
+| [![Aperçu Course](previews/F1_V2_page1.svg)](previews/F1_V2_page1.svg) | [![Aperçu Voiture](previews/F1_V2_page2.svg)](previews/F1_V2_page2.svg) |
+| Page 3 : Moteur | Page 4 : Circuit |
+| [![Aperçu Moteur](previews/F1_V2_page3.svg)](previews/F1_V2_page3.svg) | [![Aperçu Circuit](previews/F1_V2_page4.svg)](previews/F1_V2_page4.svg) |
 
-**Page 4 : Circuit** — carte du circuit à cadrage fixe, marqueurs de position des voitures, secteurs et zones DRS selon les données disponibles. La carte ne défile pas derrière la voiture. L'aperçu graphique de cette quatrième page reste à ajouter au catalogue.
+**Page 4 : Circuit** — carte à cadrage fixe, positions des voitures, secteurs et informations DRS selon les données disponibles. L’aperçu est une illustration statique reconstituée à partir de la simulation R2F169 ; ce n’est pas une capture d’une session réelle sur le volant.
 
 Sur la page **Course**, les données de télémétrie incluent notamment le tour en cours, le meilleur tour violet, le rapport suggéré et les RPM. Les pages **Voiture** et **Moteur** conservent leur présentation.
 
